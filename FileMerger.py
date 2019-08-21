@@ -4,7 +4,7 @@ Package Installation : Package required for this file is PyPDF2 and can be insta
 Instruction: Execute (Double Click ) the mergefile.py file in the directory containing all pdf files to be summarized.
 Aim: To extract the first two pages from each pdf file and then combine them to one file.
 Input: PDF files 
-Output:Mergefile is the PDF file have two pages from each pdf file in that folder.  
+Output:Mergefile is the PDF file having n number given pages from each pdf file in that folder.  
 
 '''
 import PyPDF2, os
